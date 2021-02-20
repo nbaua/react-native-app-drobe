@@ -11,17 +11,22 @@ It showcases following features.
 - Listing of user's favorites clothing products
 - Filters based on the user's preferences.
 
+#### Preview
+
+![](https://github.com/nbaua/react-native-app-drobe/blob/master/screenshots/drobe.gif?raw=true) ![](https://github.com/nbaua/react-native-app-drobe/blob/master/screenshots/theme-change.gif?raw=true)
+
 #### Some of the silent features
 
 - Usage of Navigation Sidebar
 - Usage of Navigation Tabs
 - Usage of Redux State Management
 - Usage of Custom Fonts
-- Usage of Few Best Practices
+- Usage of Some Best Practices
   - Shared Components
   - Value Constants
   - Generic Styles
   - Data Models
+- One Stop Theme Change
 
 This application is aims at providing the bare minimum requirements of online store-front application.
 There are plenty of things still you would require to do on own such as
@@ -30,6 +35,9 @@ There are plenty of things still you would require to do on own such as
 - Database creation and data seeding.
 
 #### Note:
+```diff
++ The data shown in the above screenshot contained some of the copyrighted content and hence can not be distributed.
++ The sample data just contains the JSON structure and fake details just to fill the void. 
++ It is intended the version you'd be running to look different than the shown image screenshot.
+```
 
-The data shown in the above screenshot contained some of the copyrighted content and hence can not be distributed.
-The sample data just contains the JSON structure and fake details just to fill the void. It is intended the version you'd be running to look different than the shown image screenshot.
